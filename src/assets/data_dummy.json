@@ -1,0 +1,51 @@
+{
+  "nik": { "alias": "NIK", "value": "" },
+  "nim": { "alias": "NIM", "value": "" },
+  "nama": { "alias": "NAMA", "value": "" },
+  "jurusan": { "alias": "JURUSAN", "value": "" },
+  "angkatan": { "alias": "ANKATAN", "value": "" },
+  "lahir": {
+    "tempat": { "alias": "TEMPAT LAHIR", "value": "" },
+    "tanggal": { "alias": "TANGGAL LAHIR", "value": "" }
+  },
+  "jenis_kelamin": { "alias": "JENIS KELAMIN", "value": "" },
+  "status_menikah": { "alias": "STATUS MENIKAH", "value": "" },
+  "agama": { "alias": "AGAMA", "value": "" },
+  "alamat": {
+    "propinsi": { "alias": "PROVINSI", "value": "" },
+    "kabupaten": { "alias": "KABUPATEN", "value": "" },
+    "kecamatan": { "alias": "KECAMATAN", "value": "" },
+    "kelurahan": { "alias": "KELURAHAN", "value": "" },
+    "rt_rw": { "alias": "RT/RW", "value": "" }
+  },
+  "kontak": {
+    "email": { "alias": "EMAIL", "value": "" },
+    "nomor_telphone": { "alias": "NOMOR TELPHONE", "value": "" },
+    "nomor_handpone": { "alias": "NOMOR HANDPHONE", "value": "" }
+  },
+  "asal_sekolah": {
+    "nama": { "alias": "ASAL SEKOLAH", "value": "" },
+    "jurusan": { "alias": "SEKOLAH JURUSAN", "value": "" },
+    "alamat": { "alias": "ALAMAT SEKOLAH", "value": "" }
+  },
+  "orang_tua": {
+    "ayah": {
+      "nama": { "alias": "NAMA AYAH", "value": "" },
+      "status": { "alias": "STATUS AYAH", "value": "" },
+      "pekerjaan": { "alias": "PEKERJAAN AYAH", "value": "" },
+      "gaji": { "alias": "GAJI AYAH", "value": "" },
+      "no_telphone": { "alias": "NOMOR HANDPHONE AYAH", "value": "" },
+      "no_handpone": { "alias": "NOMOR TELPHONE AYAH", "value": "" }
+    },
+    "ibu": {
+      "nama": { "alias": "NAMA IBU", "value": "" },
+      "status": { "alias": "STATUS IBU", "value": "" },
+      "pekerjaan": { "alias": "PEKERJAAN IBU", "value": "" },
+      "gaji": { "alias": "GAJI IBU", "value": "" },
+      "no_telphone": { "alias": "NOMOR HANDPHONE IBU", "value": "" },
+      "no_handpone": { "alias": "NOMOR TELPHONE IBU", "value": "" }
+    },
+    "alamat": { "alias": "ALAMAT ORANGTUA", "value": "" },
+    "kode_pos": { "alias": "KODEPOS ORANGTUA", "value": "" }
+  }
+}
